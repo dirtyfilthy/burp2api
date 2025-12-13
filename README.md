@@ -2,7 +2,7 @@
 
 Author: github.com/dirtyfilthy
 
-A Python tool to convert Burp Suite export files to OpenAPI 3.0 documentation. 
+A Python tool to convert Burp Suite export files to OpenAPI 3.0 documentation. Interact with site, right click on directory, save selected items... then burp2api.
 
 
 
