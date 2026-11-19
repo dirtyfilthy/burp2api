@@ -1,5 +1,7 @@
 # Burp2API
 
+**Status:** not actively developed. I'm not fixing bugs or adding features, but I'll look at pull requests when I can. Forks welcome.
+
 Author: github.com/dirtyfilthy
 
 A Python tool to convert Burp Suite export files to OpenAPI 3.0 documentation. Interact with site, right click on directory, save selected items... then burp2api.
